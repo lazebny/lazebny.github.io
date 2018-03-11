@@ -1,7 +1,6 @@
 ## 2018
 
 March
-* Martin McDonagh - [Three Billboards Outside Ebbing, Missouri](https://www.youtube.com/results?search_query=Three+Billboards+Outside+Ebbing+Missouri) (2017)
 * Борис Хлебников - [Аритмия](https://www.youtube.com/results?search_query=Аритмия+2017) (2017)
 
 February
