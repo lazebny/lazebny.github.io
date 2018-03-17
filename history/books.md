@@ -17,7 +17,7 @@ February
 January
 * Алек Росс - [Индустрии будущего](https://readrate.com/rus/search?q=Индустрии+будущего+росс&scope=books)
 
-### 2017		
+## 2017		
 
 October
 * Харуки Мураками - [О чем я говорю, когда говорю о беге](https://readrate.com/rus/search?q=О+чем+я+говорю+когда+говорю+о+беге&scope=books)
