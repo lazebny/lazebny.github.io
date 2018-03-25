@@ -1,10 +1,10 @@
 ## food for robot
 
 * [books](robot/books.md)
-* [video](robot/video.md)
+* [videos](robot/videos.md)
 
 ## food for man
 
 * [books](man/books.md)
-* [video](mant/video.md)
+* [videos](mant/videos.md)
 * [films](man/films.md)
