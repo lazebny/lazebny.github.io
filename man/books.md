@@ -1,4 +1,5 @@
-* Карл Роджерс - [О становлении личностью](https://readrate.com/rus/search?q=О+становлении+личностью&scope=books)
+* Нассим Николас Талеб - [Черный лебедь](https://readrate.com/rus/search?q=черный+лебедь&scope=books)
+* Джудит Бек - [Когнитивная терапия](https://readrate.com/rus/search?q=когнитивная+терапия&scope=books)
 * Брокман Джон - [Теории всего на свете](https://readrate.com/rus/search?q=Теории+всего+на+свете+Брокман&scope=books)
 
 ## 2018
