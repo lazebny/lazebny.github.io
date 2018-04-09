@@ -1,5 +1,8 @@
 ## 2018
 
+April
+* [Фрактал Мандельброта, бесконечность, хаос и порядок.](https://www.youtube.com/results?search_query=Фрактал+Мандельброта)
+
 March
 * Ричарда Докинз - [Враги разума. Иррациональная служба здравоохранения](https://www.youtube.com/results?search_query=Докинз+Иррациональная+служба+здравоохранения)
 * Арман Мари Леруа - [Human Mutants - The Mystery Of Growth](https://rutracker.org/forum/tracker.php?nm=human%20mutants)

@@ -1,8 +1,12 @@
-* Нассим Николас Талеб - [Черный лебедь](https://readrate.com/rus/search?q=черный+лебедь&scope=books)
+* Дино Буццати - [Татарская пустыня](https://www.goodreads.com/search?q=Татарская+пустыня)
+* Умберто Эко - [Имя розы](https://www.goodreads.com/search?q=Имя+розы)
 * Джудит Бек - [Когнитивная терапия](https://readrate.com/rus/search?q=когнитивная+терапия&scope=books)
 * Брокман Джон - [Теории всего на свете](https://readrate.com/rus/search?q=Теории+всего+на+свете+Брокман&scope=books)
 
 ## 2018
+
+April
+* Нассим Николас Талеб - [Черный лебедь](https://www.goodreads.com/search?q=черный+лебедь)
 
 March
 * Ричард Докинз - [Самое грандиозное шоу на Земле. Доказательства эволюции](https://readrate.com/rus/search?q=Самое+грандиозное+шоу+на+Земле&scope=books)
