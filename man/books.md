@@ -1,4 +1,4 @@
-* Дино Буццати - [Татарская пустыня](https://www.goodreads.com/search?q=Татарская+пустыня)
+
 * Умберто Эко - [Имя розы](https://www.goodreads.com/search?q=Имя+розы)
 * Джудит Бек - [Когнитивная терапия](https://readrate.com/rus/search?q=когнитивная+терапия&scope=books)
 * Брокман Джон - [Теории всего на свете](https://readrate.com/rus/search?q=Теории+всего+на+свете+Брокман&scope=books)
@@ -6,6 +6,8 @@
 ## 2018
 
 April
+* Стивен Хокинг - [Кратчайшая история времени](https://www.goodreads.com/search?q=Кратчайшая+история+времени)
+* Дино Буццати - [Татарская пустыня](https://www.goodreads.com/search?q=Татарская+пустыня)
 * Нассим Николас Талеб - [Черный лебедь](https://www.goodreads.com/search?q=черный+лебедь)
 
 March
