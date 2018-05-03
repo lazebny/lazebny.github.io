@@ -1,7 +1,11 @@
 * Умберто Эко - [Имя розы](https://www.goodreads.com/search?q=Имя+розы)
-* Брокман Джон - [Теории всего на свете](https://readrate.com/rus/search?q=Теории+всего+на+свете+Брокман&scope=books)
 
 ## 2018
+
+May
+* Сергей Довлатов - [Иностранка](https://www.goodreads.com/book/show/13108471)
+* Джон Брокман - [Теории всего на свете](https://readrate.com/rus/search?q=Теории+всего+на+свете+Брокман&scope=books)
+* Сергей Довлатов - [Компромис](https://www.goodreads.com/book/show/33035510)
 
 April
 * Стивен Хокинг - [Черные дыры и молодые вселенные](https://www.goodreads.com/search?q=Черные+дыры+и+молодые+вселенные)
