@@ -1,10 +1,12 @@
-* Сергей Довлатов - [Чемодан](https://www.goodreads.com/book/show/26859440)
-* Альберт Эллис - [Гуманистическая психотерапия. Рационально-эмоциональный подход](https://readrate.com/rus/search?q=Гуманистическая+психотерапия+Рационально+эмоциональный+подход)
-* Умберто Эко - [Имя розы](https://www.goodreads.com/search?q=Имя+розы)
+* Сергей Довлатов - [Наши](https://www.goodreads.com/book/show/26859441)
+* Борис Митрофанович Величковский - [Когнитивная наука: Основы психологии познания. т.1](https://www.goodreads.com/book/show/34651026)
 
 ## 2018
 
 May
+* Сергей Довлатов - [Зона](https://www.goodreads.com/book/show/37415748-zona)
+* Александр Романович Лурия - [Маленькая книжка о большой памяти](https://www.goodreads.com/book/show/11420143)
+* Сергей Довлатов - [Чемодан](https://www.goodreads.com/book/show/26859440)
 * Сергей Довлатов - [Иностранка](https://www.goodreads.com/book/show/13108471)
 * Джон Брокман - [Теории всего на свете](https://readrate.com/rus/search?q=Теории+всего+на+свете+Брокман&scope=books)
 * Сергей Довлатов - [Компромис](https://www.goodreads.com/book/show/33035510)
