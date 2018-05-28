@@ -1,11 +1,13 @@
 * Саша Соколов - [Школа для дураков](https://www.goodreads.com/book/show/34335039)
-* Нил Шубин - [Внутренняя рыба. История человеческого тела с древнейших времен до наших дней](https://www.goodreads.com/book/show/17936078)
 * Борис Митрофанович Величковский - [Когнитивная наука: Основы психологии познания. т.1](https://www.goodreads.com/book/show/34651026)
 * Александр Берман - [Среди стихий](https://www.goodreads.com/book/show/18300429)
 
 ## 2018
 
 May
+* Сергей Довлатов - [Заповедник](https://www.goodreads.com/book/show/18114429)
+* Ромен Гари - [Воздушные змеи](https://www.goodreads.com/book/show/18587865)
+* Нил Шубин - [Внутренняя рыба. История человеческого тела с древнейших времен до наших дней](https://www.goodreads.com/book/show/17936078)
 * Сергей Довлатов - [Наши](https://www.goodreads.com/book/show/26859441)
 * Сергей Довлатов - [Зона](https://www.goodreads.com/book/show/37415748-zona)
 * Александр Романович Лурия - [Маленькая книжка о большой памяти](https://www.goodreads.com/book/show/11420143)
