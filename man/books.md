@@ -1,15 +1,15 @@
 Currently Reading
 ------------
-
-* (a) Сергей Довлатов - [Филиал](https://www.goodreads.com/book/show/153299)
+* (a) Валерий Попов - [Довлатов](https://www.goodreads.com/book/show/13687099)
 * (r) Борис Митрофанович Величковский - [Когнитивная наука: Основы психологии познания. т.1](https://www.goodreads.com/book/show/34651026)
 
 Read
 ------------
-
 ### 2018
 
 May
+* (a) Сергей Довлатов - [Ослик должен быть худым. Рассказы](https://www.goodreads.com/book/show/36589794)
+* (a) Сергей Довлатов - [Филиал](https://www.goodreads.com/book/show/153299)
 * (a) Сергей Довлатов - [Заповедник](https://www.goodreads.com/book/show/18114429)
 * (a) Ромен Гари - [Воздушные змеи](https://www.goodreads.com/book/show/18587865)
 * (a) Нил Шубин - [Внутренняя рыба. История человеческого тела с древнейших времен до наших дней](https://www.goodreads.com/book/show/17936078)
@@ -101,9 +101,7 @@ Want to Read
 * (r) Александр Берман - [Среди стихий](https://www.goodreads.com/book/show/18300429)
 
 ### Ruslit
-* (a) Валерий Попов - [Довлатов](https://www.goodreads.com/book/show/13687099)
 * (a) Игорь Сухих - [Сергей Довлатов. Время, место, судьба](https://www.goodreads.com/book/show/153304)
-* (a) Сергей Довлатов - [Ослик должен быть худым. Рассказы](https://www.goodreads.com/book/show/36589794)
 * (a) Сергей Довлатов - [Рассказы и письма, ч1](...)
 
 ### War
