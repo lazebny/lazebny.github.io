@@ -77,17 +77,38 @@ Some
 Want to Read
 ------------
 
+### Humor
+* (a) Джордж Микеш - [Как быть иностранцем / Шекспир и я](https://www.goodreads.com/book/show/5974161)(316)
+* (a) Кристофер Бакли - [День бумеранга](https://www.goodreads.com/book/show/28189065)
+* (a) Кристофер Бакли - [Прощайте, мама и папа](https://readrate.com/rus/books/proshchayte-mama-i-papa)
+* (a) Марк Твен - [Юмористические рассказы](https://readrate.com/rus/books/mark-tven-yumoristicheskie-rasskazy-790293721)
+
+### Classic
+* (a) Вильям Шекспир - [Антоний и Клеопатра](https://www.goodreads.com/book/show/25149145) (110)
+* (a) Вильям Шекспир - [Венецианский купец](https://www.goodreads.com/book/show/23979864) (240)
+* (a) Вильям Шекспир - [Гамлет](https://www.goodreads.com/book/show/24085539) (110)
+* (a) Вильям Шекспир - [Зимняя сказка](https://www.goodreads.com/book/show/24408780) (200)
+* (a) Вильям Шекспир - [Король Лир](https://www.goodreads.com/book/show/24473379) (110)
+* (a) Вильям Шекспир - [Макбет](https://www.goodreads.com/book/show/11127784) (170)
+* (a) Вильям Шекспир - [Отелло](https://www.goodreads.com/book/show/34681567) (210)
+* (a) Вильям Шекспир - [Перикл, принц Тирский ](https://www.goodreads.com/book/show/28018656) (80)
+* (a) Вильям Шекспир - [Ричард 3](https://www.goodreads.com/book/show/26854903) (100)
+* (a) Гофман - [Крошка Цахес по прозванию Циннобер](https://www.goodreads.com/book/show/15707031)
+* (a) Умберто Эко - [Имя розы](https://www.goodreads.com/book/show/6076814) (630)
+
 ### Poetry
 * (a) Соломон Волков - [Диалоги с Иосифом Бродским](https://www.goodreads.com/book/show/6034188)
 * (a) Иосиф Бродский - [Часть речи](https://www.goodreads.com/book/show/20402103)
 
-### Psychology
+### Phylosophy and Psychology
 * (a) Джим Лоэр - [Жизнь на полной мощности. Управление энергией - ключ к высокой эффективности, здоровью и счастью](https://www.goodreads.com/book/show/13500824)
 * (a) Оливер Сакс - [Зримые голоса](https://www.goodreads.com/book/show/22915285)
 * (a) Оливер Сакс - [Нога как точка опоры](https://www.goodreads.com/book/show/26072142)
 * (a) Оливер Сакс - [Человек, который принял жену за шляпу](https://www.goodreads.com/book/show/16102966)
+* (a) Сенека - [Нравственные письма к Луцилию](https://www.goodreads.com/book/show/29238935) (350)
 
 ### Science
+* (a) Александр Аузан - [Институциональная экономика](https://www.goodreads.com/book/show/15738386)
 * (a) Ася Казанцева - [В интернете кто-то неправ! Научные исследования спорных вопросов](https://www.goodreads.com/book/show/28644879)
 * (a) Ася Казанцева - [Кто бы мог подумать! Как мозг заставляет нас делать глупости](https://www.goodreads.com/book/show/20765842)
 * (a) Джаред Даймонд - [Коллапс: почему одни общества выживают, а другие умирают](https://www.goodreads.com/book/show/6902030)
@@ -102,6 +123,7 @@ Want to Read
 
 ### Ruslit
 * (a) Игорь Сухих - [Сергей Довлатов. Время, место, судьба](https://www.goodreads.com/book/show/153304)
+* (a) Саша Соколов - [Между собакой и волком](https://www.goodreads.com/book/show/1729869) (220)
 * (a) Сергей Довлатов - [Рассказы и письма, ч1](...)
 
 ### War
@@ -114,12 +136,15 @@ Want to Read
 * (a) Альберт Камю - [Счастливая смерть](https://www.goodreads.com/book/show/34838249)
 * (a) Билл Брайсон - [Краткая история быта и частной жизни](https://www.goodreads.com/book/show/31394454)
 * (a) Билл Брайсон - [Краткая история почти всего на свете](https://www.goodreads.com/book/show/13203182)
-* (a) Гофман - [Крошка Цахес по прозванию Циннобер](https://www.goodreads.com/book/show/15707031)
-* (a) Кристофер Бакли - [День бумеранга](https://www.goodreads.com/book/show/28189065)
-* (a) Кристофер Бакли - [Прощайте, мама и папа](https://readrate.com/rus/books/proshchayte-mama-i-papa)
+* (a) Джозеф Кэмпбелл - [Тысячеликий герой](https://www.goodreads.com/book/show/31434681)
 * (a) Курт Воннегут - [Завтрак для чемпионов](https://www.goodreads.com/book/show/13514446)
 * (a) Курт Воннегут - [Колыбель для кошки. Дай вам бог здоровья, мистер Розуот](https://www.goodreads.com/book/show/16481680)
-* (a) Марк Твен - [Юмористические рассказы](https://readrate.com/rus/books/mark-tven-yumoristicheskie-rasskazy-790293721)
 * (a) Нил Гейман - [Американские боги](https://www.goodreads.com/book/show/32305808)
 * (a) Нора Галь - [Слово живое и мёртвое](https://www.goodreads.com/book/show/3327751)
+* (a) Ромен Гари - [Большая барахолка](https://www.goodreads.com/book/show/31842304) (420)
+* (a) Ромен Гари - [Обещание на рассвете](https://www.goodreads.com/book/show/8161377) (450)
+* (a) Ромен Гари - [Страхи царя Соломона](https://www.goodreads.com/book/show/17847863) (460)
+* (a) Терри Пратчет - [Цвет волшебства](https://www.goodreads.com/book/show/2693409)
+* (a) Уильям Фолкнер - [Шум и ярость](https://www.goodreads.com/book/show/16117573)
+* (a) Ромен Гари (Эмиль Ажар) - [Вся жизнь впереди](https://www.goodreads.com/book/show/9267000) (240)
 * (a) Эмир Кустурица - [Где мое место в этой истории? Автобиография](https://www.goodreads.com/book/show/30367070)
