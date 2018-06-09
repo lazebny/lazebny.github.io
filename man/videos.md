@@ -1,5 +1,6 @@
 Currently Watching
 -----------------
+* Роберт Сапольски - [Биология поведения человека](https://www.youtube.com/playlist?list=PL8YZyma552VcePhq86dEkohvoTpWPuauk)
 
 Watched
 -----------------
@@ -29,4 +30,3 @@ Want to Watch
 * Александр Александрович Аузан - [Институциональная экономика](https://www.youtube.com/playlist?list=PLBXPiXVjeOHrUfn-tlUrPJyL4p8bee1-z)
 * Джаред Даймонд - [NG: 2210: Конец света? / 2210: Der Collapse? (2010)](https://www.youtube.com/results?search_query=NG+2210+Конец+света)
 * Джаред Даймонд - [Ружья, микробы и сталь](https://www.youtube.com/results?search_query=Ружья+микробы+сталь)
-* Роберт Сапольски - [Биология поведения человека](https://www.youtube.com/playlist?list=PL8YZyma552VcePhq86dEkohvoTpWPuauk)

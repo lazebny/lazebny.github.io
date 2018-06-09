@@ -1,10 +1,11 @@
 Currently Watching
 -----------------
-* Алексей Герман-мл. - [Довлатов](https://www.imdb.com/title/tt7763020/) (2018)
 
 Watched
 -----------------
 ### 2018
+June
+* ~~Алексей Герман-мл. - [Довлатов](https://www.imdb.com/title/tt7763020/) (2018)~~
 
 March
 * Joe Wright - [Darkest Hour](https://www.youtube.com/results?search_query=Darkest+Hour+2017) (2017)
