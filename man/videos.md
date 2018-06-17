@@ -5,6 +5,14 @@ Currently Watching
 Watched
 -----------------
 ### 2018
+July
+* Кристофер Макдугал - [TED: О племени Тамарула и беге босиком](https://youtu.be/zIbl8sujQiY)
+* И. Химичева - [Техника бега на сверхдлинные дистанции](https://youtu.be/kTcsTMpCslI) (1983)
+
+June
+* Владимир Демченко - [Все о коленях, стопах и связках](https://www.youtube.com/results?search_query=все+коленях+владимир+демченко)
+* Евгений Швец - [Диета для атлета](https://www.youtube.com/results?search_query=диета+для+атлета+евгений+швец)
+* Елена Корнилова - [Я переплыла Гибралтар](https://www.youtube.com/results?search_query=елена+корнилова+гибралтар)
 
 April
 * [Пример РЭПТ от основателя Альберта Эллиса](https://youtu.be/w2muuQXiCD4)
@@ -30,3 +38,9 @@ Want to Watch
 * Александр Александрович Аузан - [Институциональная экономика](https://www.youtube.com/playlist?list=PLBXPiXVjeOHrUfn-tlUrPJyL4p8bee1-z)
 * Джаред Даймонд - [NG: 2210: Конец света? / 2210: Der Collapse? (2010)](https://www.youtube.com/results?search_query=NG+2210+Конец+света)
 * Джаред Даймонд - [Ружья, микробы и сталь](https://www.youtube.com/results?search_query=Ружья+микробы+сталь)
+* Юлиана Каминская - [История зарубежной литературы XX века (СПбГУ)](https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp)
+
+### Health
+
+* Николай Романов - [О спорте, правильном беге и победах](https://www.youtube.com/results?search_query=правильном+беге+николай+романов)
+* Андрей Чирков - [Бег в радость](https://www.youtube.com/watch?v=ngegEVjuzi0)
