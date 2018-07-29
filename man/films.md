@@ -4,6 +4,10 @@ Currently Watching
 Watched
 -----------------
 ### 2018
+July
+* Александр Мельник - [Территория](https://www.imdb.com/title/tt2251828) (2015) 02:40
+* Сергей Бодров - [Монгол](https://www.imdb.com/title/tt0416044) (2007) 02:00
+
 June, totals: 9:10
 * ~~Alain Resnais - [Hiroshima mon amour](https://www.imdb.com/title/tt0052893/) (1959) 1:30~~
 * Tony Richardson - [The Loneliness of the Long Distance Runner](https://www.imdb.com/title/tt0056194/) (1962) 1:44 writer Alan Sillitoe
