@@ -5,6 +5,10 @@ Currently Watching
 Watched
 -----------------
 ### 2018
+
+September
+* [Ген высоты, или как пройти на Эверест](https://www.youtube.com/results?search_query=ген+высоты) 3:00
+
 July
 * Ася Казанцева - [Как мозг нас обманывает?](https://www.youtube.com/results?search_query=ася+казанцева+мозг+нас+обманывает) 1:30
 * Кристофер Макдугал - [TED: О племени Тамарула и беге босиком](https://youtu.be/zIbl8sujQiY)
