@@ -1,5 +1,6 @@
-|![man](man/image.jpg) | ![robot](robot/image.jpg) |
+|![home](home/image.png) | ![work](work/image.png) |
 |:---:|:---:|
-|[books](man/books.md) |[books](robot/books.md) |
-|[videos](man/videos.md) |[videos](robot/videos.md) |
-|[films](man/films.md) | |
+|[books](home/books.md) |[books](work/books.md) |
+|[videos](home/videos.md) |[videos](work/videos.md) |
+|[films](home/films.md) | |
+|[music](home/music.md) | |

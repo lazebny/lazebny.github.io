@@ -1,9 +1,11 @@
-Currently Watching
+2018
 -----------------
+November
+* ~~David Yates - [Fantastic Beasts: The Crimes of Grindelwald](https://www.imdb.com/title/tt4123430/) (2018) 02:14~~
+* Григорий Козинцев - [Гамлет](https://www.imdb.com/title/tt0058126/) (1964) 02:20
+* Bryan Singer - [Bohemian Rhapsody](https://www.imdb.com/title/tt1727824/) (2018) 02:14
+* Thomas Lilti - [Hippocrate](https://www.imdb.com/title/tt2891070) (2014) 01:42
 
-Watched
------------------
-### 2018
 July
 * Александр Мельник - [Территория](https://www.imdb.com/title/tt2251828) (2015) 02:40
 * Сергей Бодров - [Монгол](https://www.imdb.com/title/tt0416044) (2007) 02:00

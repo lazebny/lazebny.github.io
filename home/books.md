@@ -1,8 +1,19 @@
-Currently Reading
-------------
-Read
-------------
-### 2018
+2018
+-----------------
+November
+* (a) Бертольд Брехт - [Трехгрошовая опера](https://www.goodreads.com/book/show/38259443)
+* (a) Кузьма Скрябин - [Я, Паштєт і Армія](https://www.goodreads.com/book/show/22041105)
+* (r) Намкай Норбу - [Кристал и путь света](#)
+* (a) Михаил Анчаров - [Самшитовый лес](https://www.goodreads.com/book/show/13089827)
+
+October
+* (a) Гарсиа Маркес Габриель - [Осень патриарха](https://www.goodreads.com/book/show/15701624) Князев Игорь 13:30
+* (a) Гарсиа Маркес Габриель - [Любовь во время чумы](https://www.goodreads.com/book/show/13556785) Князев Игорь 16:00
+* (a) Конрад Джозеф - [Сердце тьмы](https://www.goodreads.com/book/show/31445414) Бурделов Олег 4:20
+* (a) Эрнест Хемингуэй- [Прощай, оружие!](https://www.goodreads.com/book/show/25742398) Сергей Чонишвили 7:40
+* (a) Александр Куприн - [Молох](https://www.goodreads.com/book/show/11453733) Сергей Чонишвили 2:40
+* (a) Кузьма Скрябин - [Я, "Побєда" і Берлін](https://www.goodreads.com/book/show/16177891) 2:00
+
 September, totals: (a) ~ 24
 * (a) Хэддон Марк - [Загадочное ночное убийство собаки](https://www.goodreads.com/book/show/2138858) Ерисанова Ирина 6:00
 * (a) Виктор Франкл - [Сказать жизни "Да!". Психолог в концлагере](https://www.goodreads.com/book/show/10798613) Исаев Олег 4:30
@@ -81,8 +92,8 @@ February
 January
 * (r) Алек Росс - [Индустрии будущего](https://readrate.com/rus/search?q=Индустрии+будущего+росс&scope=books)
 
-### 2017
-
+2017
+-----------------
 October
 * (r) Харуки Мураками - [О чем я говорю, когда говорю о беге](https://readrate.com/rus/search?q=О+чем+я+говорю+когда+говорю+о+беге&scope=books)
 * (r) Артур Лидьярд - [Бег с Лидьярдом](https://readrate.com/rus/search?q=Бег+с+Лидьярдом&scope=books)
@@ -90,8 +101,8 @@ October
 January
 * (r) Норгей Тенсинг - [Тигр снегов](https://readrate.com/rus/search?q=Тигр+снегов&scope=books)
 
-### 2016
-
+2016
+-----------------
 December
 * (r) Александр Кузнецов - [Внизу Сванетия](https://readrate.com/rus/search?q=Внизу+Сванетия&scope=books)
 
@@ -103,8 +114,8 @@ October
 * (r) Виктор Суворов - [Аквариум](https://readrate.com/rus/search?q=Аквариум+Суворов&scope=books)
 * (r) Светлана Алексиевич - [У войны не женское лицо](https://readrate.com/rus/search?q=У+войны+не+женское+лицо&scope=books)
 
-### 2015
-
+2015
+-----------------
 * (r) Морис Эрцог - [Аннапурна](https://readrate.com/rus/search?q=Аннапурна+Эрцог&scope=books)
 * (r) Тур Хейердал - [Аку-Аку. Тайна острова Пасхи](https://readrate.com/rus/search?q=Аку+Аку+Тайна+острова+Пасхи&scope=books)
 * (r) Тур Хейердал - [Путешествие на «Кон-Тики»](https://readrate.com/rus/search?q=Путешествие+на+Кон+Тики&scope=books)
