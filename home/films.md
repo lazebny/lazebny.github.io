@@ -1,5 +1,10 @@
 2018
 -----------------
+December
+* Billy Wilder - [Some like it hot](https://www.imdb.com/title/tt0053291/) 1959 02:00
+* James Wan - [Aquaman](https://www.imdb.com/title/tt1477834/) 2018 02:20
+* Stephen Sommers - [The Mummy](https://www.imdb.com/title/tt0120616/) 1999 02:00
+
 November
 * ~~David Yates - [Fantastic Beasts: The Crimes of Grindelwald](https://www.imdb.com/title/tt4123430/) (2018) 02:14~~
 * Григорий Козинцев - [Гамлет](https://www.imdb.com/title/tt0058126/) (1964) 02:20
